@@ -1,0 +1,1 @@
+export type DelTask = (id:number)=>void
